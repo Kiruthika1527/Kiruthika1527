@@ -38,12 +38,13 @@
 <p align="left corner">
  
  
-  *java
-  *python
+  *Java
+  *Python
   *SQL
   *HTML
   *CSS
   *Javascript(learning)
+  *Full stack Development
   
 ---
 
