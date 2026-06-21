@@ -35,9 +35,14 @@
 ---
 
 ## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruthika1527\&layout=compact\&theme=tokyonight)
-
+<p align="left corner">
+  *java
+  *python
+  *SQL
+  *HTML
+  *CSS
+  *Javascript(learning)
+  
 ---
 
 ## Profile Views
